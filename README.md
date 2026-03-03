@@ -1,4 +1,4 @@
-# Alaris The Unruly
+# Alaris the Unruly
 **Version 0.1 – Prototype**
 
 #### Video Demo:  <https://www.youtube.com/watch?v=MfyO_gPO230>
